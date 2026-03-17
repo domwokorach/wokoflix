@@ -1,0 +1,13 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "wokoflix",
+    "ianvs",
+    "Netflx"
+  ],
+  "ignorePaths": [
+    "node_modules/**",
+    "dist/**"
+  ]
+}

@@ -1,6 +1,8 @@
-# [Netflx OTT](https://netflx-web.vercel.app/)
+
+# [NWokofllix](https://netflx-web.vercel.app/)
 
 This is a Netflix clone project built with the [T3 Stack](https://create.t3.gg/) and bootstrapped with `create-t3-app`.
+
 
 [![Netflx OTT](./public/screenshot.png)](https://netflx-web.vercel.app/)
 
@@ -18,7 +20,7 @@ This is a Netflix clone project built with the [T3 Stack](https://create.t3.gg/)
 - Authentication with NextAuth.js
 - Subscription with Stripe
 - Profile creation for individual users with rsc, tRPC, and Prisma
-- Pin verfication for profies
+- Pin verification for profiles
 
 ## Installation
 
@@ -53,4 +55,5 @@ yarn run stripe:listen
 ## How do I deploy this?
 
 Follow the deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
-# wokoflix
+
+
