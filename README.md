@@ -25,7 +25,7 @@ This is a Netflix clone project built with the [T3 Stack](https://create.t3.gg/)
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/sadmann7/netflx-web
+git clone https://github.com/domwokorach/wokoflix
 ```
 
 ### 2. Install dependencies
