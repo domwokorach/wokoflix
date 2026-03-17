@@ -1,10 +1,10 @@
 
-# [NWokofllix](https://netflx-web.vercel.app/)
+# [Wokofllix](https://netflx-web.vercel.app/)
 
 This is a Netflix clone project built with the [T3 Stack](https://create.t3.gg/) and bootstrapped with `create-t3-app`.
 
 
-[![Netflx OTT](./public/screenshot.png)](https://netflx-web.vercel.app/)
+[![Netflx OTT](./public/screenshot.png)](https://wokoflix-dxy0ri4q5-domwokorachs-projects.vercel.app/)
 
 ## Tech Stack
 
